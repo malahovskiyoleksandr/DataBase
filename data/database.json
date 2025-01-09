@@ -665,7 +665,7 @@
         "de": "Ausstellung des POST MOST-Projekts\nim Hoesch-Museum in Dortmund"
       },
       "date": " 21.01.2024",
-      "main_image": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id2/Z2_HOESHE museum_1.png",
+      "main_image": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id3/Z2_HOESHE museum_1.png",
       "content": [
         {
           "type": "text",
@@ -677,7 +677,7 @@
         },
         {
           "type": "image",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id2/Z2_HOESHE museum_1.png",
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id3/Z2_HOESHE museum_1.png",
           "description": {
             "uk": "Назва картини",
             "en": "Назва картини",
@@ -704,7 +704,7 @@
         },
         {
           "type": "image",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id2/Z2_HOESHE museum_2.png",
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id3/Z2_HOESHE museum_2.png",
           "description": {
             "uk": "Назва картини",
             "en": "Назва картини",
@@ -723,7 +723,7 @@
         },
         {
           "type": "image",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id2/Z2_HOESHE museum_3.png",
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id3/Z2_HOESHE museum_3.png",
           "description": {
             "uk": "Назва картини",
             "en": "Назва картини",
@@ -750,7 +750,7 @@
         },
         {
           "type": "image",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id2/Z2_HOESHE museum_4.PNG",
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id3/Z2_HOESHE museum_4.PNG",
           "description": {
             "uk": "Назва картини",
             "en": "Назва картини",
@@ -777,7 +777,7 @@
         "de": "Mariupol-Kunstprojekt POST MOST in Kamianske"
       },
       "date": "2.12.2023",
-      "main_image": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id3/ZAHID_3 KAMIANSKE_1.png",
+      "main_image": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id2/ZAHID_3 KAMIANSKE_1.png",
       "content": [
         {
           "type": "text",
@@ -789,7 +789,7 @@
         },
         {
           "type": "image",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id3/ZAHID_3 KAMIANSKE_1.png",
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id2/ZAHID_3 KAMIANSKE_1.png",
           "description": {
             "uk": "Назва картини",
             "en": "Назва картини",
@@ -806,7 +806,7 @@
         },
         {
           "type": "image",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id3/ZAHID_3 KAMIANSKE_2.jpg",
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id2/ZAHID_3 KAMIANSKE_2.jpg",
           "description": {
             "uk": "Назва картини",
             "en": "Назва картини",
@@ -823,7 +823,7 @@
         },
         {
           "type": "image",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id3/ZAHID_3 KAMIANSKE_3.jpg",
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id2/ZAHID_3 KAMIANSKE_3.jpg",
           "description": {
             "uk": "Назва картини",
             "en": "Назва картини",
@@ -840,7 +840,7 @@
         },
         {
           "type": "image",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id3/ZAHID_3 KAMIANSKE_4.jpg",
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id2/ZAHID_3 KAMIANSKE_4.jpg",
           "description": {
             "uk": "Назва картини",
             "en": "Назва картини",
@@ -857,7 +857,7 @@
         },
         {
           "type": "image",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id3/ZAHID_3 KAMIANSKE_5.JPG",
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id2/ZAHID_3 KAMIANSKE_5.JPG",
           "description": {
             "uk": "Назва картини",
             "en": "Назва картини",
@@ -889,8 +889,8 @@
         "en": "Mariupol art project POST MOST in Dortmund",
         "de": "Mariupol-Kunstprojekt POST MOST in Dortmund"
       },
-      "date": "                                                   28.10.2022",
-      "main_image": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id4/Z1_Zehe Zollern_1.png",
+      "date": "28.10.2022",
+      "main_image": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id1/Z1_Zehe Zollern_1.png",
       "content": [
         {
           "type": "text",
@@ -902,7 +902,7 @@
         },
         {
           "type": "image",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id4/Z1_Zehe Zollern_1.png",
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id1/Z1_Zehe Zollern_1.png",
           "description": {
             "uk": "Назва картини",
             "en": "Назва картини",
@@ -919,7 +919,7 @@
         },
         {
           "type": "image",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id4/Z1_Zehe Zollern_2.png",
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id1/Z1_Zehe Zollern_2.png",
           "description": {
             "uk": "Назва картини",
             "en": "Назва картини",
@@ -936,7 +936,7 @@
         },
         {
           "type": "image",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id4/Z1_Zehe Zollern_3.png",
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id1/Z1_Zehe Zollern_3.png",
           "description": {
             "uk": "Назва картини",
             "en": "Назва картини",
@@ -953,7 +953,7 @@
         },
         {
           "type": "image",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id4/Z1_Zehe Zollern_4.png",
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id1/Z1_Zehe Zollern_4.png",
           "description": {
             "uk": "Назва картини",
             "en": "Назва картини",
@@ -970,7 +970,7 @@
         },
         {
           "type": "image",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id4/Z1_Zehe Zollern_5.png",
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id1/Z1_Zehe Zollern_5.png",
           "description": {
             "uk": "Назва картини",
             "en": "Назва картини",
@@ -987,7 +987,7 @@
         },
         {
           "type": "image",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id4/Z1_Zehe Zollern_6.png",
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id1/Z1_Zehe Zollern_6.png",
           "description": {
             "uk": "Назва картини",
             "en": "Назва картини",
