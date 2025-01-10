@@ -48,7 +48,7 @@
         {
           "id": 14,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/2_ROLLING MILL.jpg",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
+          "linkVideo": "",
           "name": {
             "uk": "ПРОКАТНИЙ СТАН",
             "en": "ROLLING MILL",
@@ -72,7 +72,7 @@
         {
           "id": 13,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/3_BLAST FURNACE 4 (3).jpg",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
+          "linkVideo": "",
           "name": {
             "uk": "Домена піч №4 (3)",
             "en": "BLAST FURNACE #4 (3)",
@@ -96,7 +96,7 @@
         {
           "id": 12,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/4_FEELINGS.jpg",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
+          "linkVideo": "",
           "name": {
             "uk": "ПОЧУТТЯ",
             "en": "FEELINGS",
@@ -120,7 +120,7 @@
         {
           "id": 11,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/5_OLD BLAST FURNACE.jpg",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
+          "linkVideo": "",
           "name": {
             "uk": "СТАРА ДОМНА",
             "en": "OLD BLAST FURNACE",
@@ -144,7 +144,7 @@
         {
           "id": 10,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/6_BLAST FURNACE 2.jpg",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
+          "linkVideo": "",
           "name": {
             "uk": "ДОМЕННА ПІЧ №2",
             "en": "BLAST FURNACE #2",
@@ -168,7 +168,7 @@
         {
           "id": 9,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/7_BLAST FURNACE 4 (2).jpg",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
+          "linkVideo": "",
           "name": {
             "uk": "ДОМЕННА ПІЧ №4 (2)",
             "en": "BLAST FURNACE #4 (2)",
@@ -192,7 +192,7 @@
         {
           "id": 8,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/8_IRON HEART (2).jpg",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
+          "linkVideo": "",
           "name": {
             "uk": "ЗАЛІЗНЕ СЕРЦЕ (2)",
             "en": "IRON HEART (2)",
@@ -216,7 +216,7 @@
         {
           "id": 7,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/9_IRON HEART (1).jpg",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
+          "linkVideo": "",
           "name": {
             "uk": "ЗАЛІЗНЕ СЕРЦЕ (1)",
             "en": "IRON HEART (1)",
@@ -240,7 +240,7 @@
         {
           "id": 6,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/10_BLAST FURNACE 4 (1).jpg",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
+          "linkVideo": "",
           "name": {
             "uk": "ДОМЕННА ПІЧ №4 (1).",
             "en": "BLAST FURNACE #4 (1)",
@@ -264,7 +264,7 @@
         {
           "id": 5,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/18_INDUSTRIAL 2023_1.jpg",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
+          "linkVideo": "",
           "name": {
             "uk": "INDUSTRIAL 2023_1",
             "en": "INDUSTRIAL 2023_1",
@@ -288,7 +288,7 @@
         {
           "id": 4,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/19_INDUSTRIAL 2023_2.jpg",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
+          "linkVideo": "",
           "name": {
             "uk": "INDUSTRIAL 2023_2",
             "en": "INDUSTRIAL 2023_2",
@@ -312,7 +312,7 @@
         {
           "id": 3,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/21_Spectrum_2024.jpg",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
+          "linkVideo": "",
           "name": {
             "uk": "Спектр",
             "en": "Spectrum",
@@ -336,7 +336,7 @@
         {
           "id": 2,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/22_Emerald city_2024.jpg",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
+          "linkVideo": "",
           "name": {
             "uk": "Смарагдове місто",
             "en": "Emerald city",
@@ -360,7 +360,7 @@
         {
           "id": 1,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/SNORT_2021.jpg",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
+          "linkVideo": "",
           "name": {
             "uk": "SNORT_2021",
             "en": "SNORT_2021",
