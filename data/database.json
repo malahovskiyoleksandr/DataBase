@@ -46,6 +46,30 @@
       },
       "page": [
         {
+          "id": 15,
+          "src": "",
+          "linkVideo": "",
+          "name": {
+            "uk": "Нове зображення",
+            "en": "",
+            "de": ""
+          },
+          "description": {
+            "uk": "",
+            "en": "",
+            "de": ""
+          },
+          "material": {
+            "uk": "",
+            "en": "",
+            "de": ""
+          },
+          "size": "",
+          "date": "",
+          "width": 1000,
+          "height": 1000
+        },
+        {
           "id": 14,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/2_ROLLING MILL.jpg",
           "linkVideo": "",
