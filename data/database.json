@@ -66,7 +66,15 @@
           },
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/2_ROLLING MILL.jpg",
           "width": 1920,
-          "height": 1228
+          "height": 1228,
+          "material": {
+            "uk": "uk.полотно/олія",
+            "en": "en.полотно/олія",
+            "de": "de.полотно/олія"
+          },
+          "size": "100x80 cm",
+          "date": "2023",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         },
         {
           "id": 13,
@@ -89,7 +97,15 @@
           },
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/3_BLAST FURNACE 4 (3).jpg",
           "width": 6111,
-          "height": 4981
+          "height": 4981,
+          "material": {
+            "uk": "uk.полотно/олія",
+            "en": "en.полотно/олія",
+            "de": "de.полотно/олія"
+          },
+          "size": "100x80 cm",
+          "date": "2023",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         },
         {
           "id": 12,
@@ -112,7 +128,15 @@
           },
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/4_FEELINGS.jpg",
           "width": 6101,
-          "height": 2931
+          "height": 2931,
+          "material": {
+            "uk": "uk.полотно/олія",
+            "en": "en.полотно/олія",
+            "de": "de.полотно/олія"
+          },
+          "size": "100x80 cm",
+          "date": "2023",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         },
         {
           "id": 11,
@@ -135,7 +159,15 @@
           },
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/5_OLD BLAST FURNACE.jpg",
           "width": 5703,
-          "height": 8160
+          "height": 8160,
+          "material": {
+            "uk": "uk.полотно/олія",
+            "en": "en.полотно/олія",
+            "de": "de.полотно/олія"
+          },
+          "size": "100x80 cm",
+          "date": "2023",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         },
         {
           "id": 10,
@@ -158,7 +190,15 @@
           },
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/6_BLAST FURNACE 2.jpg",
           "width": 6107,
-          "height": 4798
+          "height": 4798,
+          "material": {
+            "uk": "uk.полотно/олія",
+            "en": "en.полотно/олія",
+            "de": "de.полотно/олія"
+          },
+          "size": "100x80 cm",
+          "date": "2023",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         },
         {
           "id": 9,
@@ -181,7 +221,15 @@
           },
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/7_BLAST FURNACE 4 (2).jpg",
           "width": 6093,
-          "height": 7938
+          "height": 7938,
+          "material": {
+            "uk": "uk.полотно/олія",
+            "en": "en.полотно/олія",
+            "de": "de.полотно/олія"
+          },
+          "size": "100x80 cm",
+          "date": "2023",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         },
         {
           "id": 8,
@@ -204,7 +252,15 @@
           },
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/8_IRON HEART (2).jpg",
           "width": 6111,
-          "height": 4690
+          "height": 4690,
+          "material": {
+            "uk": "uk.полотно/олія",
+            "en": "en.полотно/олія",
+            "de": "de.полотно/олія"
+          },
+          "size": "100x80 cm",
+          "date": "2023",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         },
         {
           "id": 7,
@@ -227,7 +283,15 @@
           },
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/9_IRON HEART (1).jpg",
           "width": 6101,
-          "height": 4274
+          "height": 4274,
+          "material": {
+            "uk": "uk.полотно/олія",
+            "en": "en.полотно/олія",
+            "de": "de.полотно/олія"
+          },
+          "size": "100x80 cm",
+          "date": "2023",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         },
         {
           "id": 6,
@@ -250,7 +314,15 @@
           },
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/10_BLAST FURNACE 4 (1).jpg",
           "width": 6111,
-          "height": 4670
+          "height": 4670,
+          "material": {
+            "uk": "uk.полотно/олія",
+            "en": "en.полотно/олія",
+            "de": "de.полотно/олія"
+          },
+          "size": "100x80 cm",
+          "date": "2023",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         },
         {
           "id": 5,
@@ -273,7 +345,15 @@
           },
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/18_INDUSTRIAL 2023_1.jpg",
           "width": 5807,
-          "height": 7916
+          "height": 7916,
+          "material": {
+            "uk": "uk.полотно/олія",
+            "en": "en.полотно/олія",
+            "de": "de.полотно/олія"
+          },
+          "size": "100x80 cm",
+          "date": "2023",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         },
         {
           "id": 4,
@@ -296,7 +376,15 @@
           },
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/19_INDUSTRIAL 2023_2.jpg",
           "width": 5817,
-          "height": 8141
+          "height": 8141,
+          "material": {
+            "uk": "uk.полотно/олія",
+            "en": "en.полотно/олія",
+            "de": "de.полотно/олія"
+          },
+          "size": "100x80 cm",
+          "date": "2023",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         },
         {
           "id": 3,
@@ -319,7 +407,15 @@
           },
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/21_Spectrum_2024.jpg",
           "width": 1993,
-          "height": 1468
+          "height": 1468,
+          "material": {
+            "uk": "uk.полотно/олія",
+            "en": "en.полотно/олія",
+            "de": "de.полотно/олія"
+          },
+          "size": "100x80 cm",
+          "date": "2023",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         },
         {
           "id": 2,
@@ -342,7 +438,15 @@
           },
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/22_Emerald city_2024.jpg",
           "width": 6115,
-          "height": 8160
+          "height": 8160,
+          "material": {
+            "uk": "uk.полотно/олія",
+            "en": "en.полотно/олія",
+            "de": "de.полотно/олія"
+          },
+          "size": "100x80 cm",
+          "date": "2023",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         },
         {
           "id": 1,
@@ -361,7 +465,14 @@
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/SNORT_2021.jpg",
           "width": 2152,
           "height": 2971,
-          "material": "полотно/олія"
+          "material": {
+            "uk": "uk.полотно/олія",
+            "en": "en.полотно/олія",
+            "de": "de.полотно/олія"
+          },
+          "size": "100x80 cm",
+          "date": "2023",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         }
       ]
     },
@@ -400,7 +511,8 @@
             "de": "de.полотно/олія"
           },
           "size": "100x80 cm",
-          "date": "2023"
+          "date": "2023",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         },
         {
           "id": 2,
@@ -447,7 +559,8 @@
             "de": "de.полотно/олія"
           },
           "size": "50x40 cm",
-          "date": "2022"
+          "date": "2022",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         }
       ]
     },
@@ -486,7 +599,8 @@
             "de": "de.полотно/олія"
           },
           "size": "40x60 cm",
-          "date": "2015"
+          "date": "2015",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         },
         {
           "id": 3,
@@ -509,7 +623,8 @@
             "de": "de.полотно/олія"
           },
           "size": "60x80 cm",
-          "date": "2013"
+          "date": "2013",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         },
         {
           "id": 2,
@@ -532,7 +647,8 @@
             "de": "de.полотно/олія"
           },
           "size": "40x60 cm",
-          "date": "2016"
+          "date": "2016",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         },
         {
           "id": 1,
@@ -555,7 +671,8 @@
             "de": "de.полотно/олія"
           },
           "size": "40x60 cm",
-          "date": "2017"
+          "date": "2017",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
         }
       ]
     }
