@@ -47,41 +47,41 @@
       "page": [
         {
           "id": 14,
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/2_ROLLING MILL.jpg",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
           "name": {
             "uk": "ПРОКАТНИЙ СТАН",
             "en": "ROLLING MILL",
             "de": "WALZWERK"
           },
-          "material": {
-            "uk": "uk.полотно/олія",
-            "en": "en.полотно/олія",
-            "de": "de.полотно/олія"
-          },
-          "size": "100x150 cm",
-          "date": "2020",
           "description": {
             "uk": "Спроба намалювати поєднання води і вогню в одному об'єкті.",
             "en": "This is my attempt to draw a combination of water and fire in one object",
             "de": "Dies ist mein Versuch, eine Kombination aus Wasser und Feuer in einem Objekt zu zeichnen."
           },
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/2_ROLLING MILL.jpg",
-          "width": 1920,
-          "height": 1228,
           "material": {
             "uk": "uk.полотно/олія",
             "en": "en.полотно/олія",
             "de": "de.полотно/олія"
           },
-          "size": "100x80 cm",
-          "date": "2023",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
+          "size": "100x150 cm",
+          "date": "2020",
+          "width": 1920,
+          "height": 1228
         },
         {
           "id": 13,
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/3_BLAST FURNACE 4 (3).jpg",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
           "name": {
             "uk": "Домена піч №4 (3)",
             "en": "BLAST FURNACE #4 (3)",
             "de": "HOCHOFEN #4 (3)."
+          },
+          "description": {
+            "uk": " Світло знаходить незвичайні акценти в оточенні промислових будівель.\n«АЗОВСТАЛЬ», МАРІУПОЛЬ, УКРАЇНА.",
+            "en": "The light finds unusual accents, while being surrounded by buildings. AZOVSTAL I&SW, MARIUPOL, UKRAINE.",
+            "de": "Das Licht findet ungewöhnliche Akzente, während es von Gebäuden umgeben ist.\nAZOVSTAL, MARIUPOL, UKRAINE. "
           },
           "material": {
             "uk": "uk.полотно/олія",
@@ -90,29 +90,22 @@
           },
           "size": "100x150 cm",
           "date": "2020",
-          "description": {
-            "uk": " Світло знаходить незвичайні акценти в оточенні промислових будівель.\n«АЗОВСТАЛЬ», МАРІУПОЛЬ, УКРАЇНА.",
-            "en": "The light finds unusual accents, while being surrounded by buildings. AZOVSTAL I&SW, MARIUPOL, UKRAINE.",
-            "de": "Das Licht findet ungewöhnliche Akzente, während es von Gebäuden umgeben ist.\nAZOVSTAL, MARIUPOL, UKRAINE. "
-          },
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/3_BLAST FURNACE 4 (3).jpg",
           "width": 6111,
-          "height": 4981,
-          "material": {
-            "uk": "uk.полотно/олія",
-            "en": "en.полотно/олія",
-            "de": "de.полотно/олія"
-          },
-          "size": "100x80 cm",
-          "date": "2023",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
+          "height": 4981
         },
         {
           "id": 12,
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/4_FEELINGS.jpg",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
           "name": {
             "uk": "ПОЧУТТЯ",
             "en": "FEELINGS",
             "de": "GEFÜHLE"
+          },
+          "description": {
+            "uk": "Вночі завод наповнюється незвичайним світлом.",
+            "en": "At night the plant is filled with unusual light.",
+            "de": "Nachts ist die Anlage mit ungewöhnlichem Licht erfüllt."
           },
           "material": {
             "uk": "uk.полотно/олія",
@@ -121,29 +114,22 @@
           },
           "size": "50x80 cm",
           "date": "2019",
-          "description": {
-            "uk": "Вночі завод наповнюється незвичайним світлом.",
-            "en": "At night the plant is filled with unusual light.",
-            "de": "Nachts ist die Anlage mit ungewöhnlichem Licht erfüllt."
-          },
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/4_FEELINGS.jpg",
           "width": 6101,
-          "height": 2931,
-          "material": {
-            "uk": "uk.полотно/олія",
-            "en": "en.полотно/олія",
-            "de": "de.полотно/олія"
-          },
-          "size": "100x80 cm",
-          "date": "2023",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
+          "height": 2931
         },
         {
           "id": 11,
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/5_OLD BLAST FURNACE.jpg",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
           "name": {
             "uk": "СТАРА ДОМНА",
             "en": "OLD BLAST FURNACE",
             "de": "ALTER HOCHOFEN"
+          },
+          "description": {
+            "uk": "Стара доменна піч №3. «АЗОВСТАЛЬ», МАРІУПОЛЬ, УКРАЇНА.",
+            "en": "This old blast furnace #3 of AZOVSTAL I&SW, MARIUPOL, UKRAINE.",
+            "de": "Dieser alte Hochofen #3. AZOVSTAL, MARIUPOL, UKRAINE."
           },
           "material": {
             "uk": "uk.полотно/олія",
@@ -152,29 +138,22 @@
           },
           "size": "80x60 cm",
           "date": "2018",
-          "description": {
-            "uk": "Стара доменна піч №3. «АЗОВСТАЛЬ», МАРІУПОЛЬ, УКРАЇНА.",
-            "en": "This old blast furnace #3 of AZOVSTAL I&SW, MARIUPOL, UKRAINE.",
-            "de": "Dieser alte Hochofen #3. AZOVSTAL, MARIUPOL, UKRAINE."
-          },
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/5_OLD BLAST FURNACE.jpg",
           "width": 5703,
-          "height": 8160,
-          "material": {
-            "uk": "uk.полотно/олія",
-            "en": "en.полотно/олія",
-            "de": "de.полотно/олія"
-          },
-          "size": "100x80 cm",
-          "date": "2023",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
+          "height": 8160
         },
         {
           "id": 10,
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/6_BLAST FURNACE 2.jpg",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
           "name": {
             "uk": "ДОМЕННА ПІЧ №2",
             "en": "BLAST FURNACE #2",
             "de": "HOCHOFEN #2"
+          },
+          "description": {
+            "uk": "Доменна піч №2,.«АЗОВСТАЛЬ», МАРІУПОЛЬ, УКРАЇНА.",
+            "en": "Blast furnace #2 of AZOVSTAL I&SW, MARIUPOL, UKRAINE.",
+            "de": "Hochofen #2. AZOVSTAL, MARIUPOL, UKRAINE."
           },
           "material": {
             "uk": "uk.полотно/олія",
@@ -183,29 +162,22 @@
           },
           "size": "80x110 cm",
           "date": "2018",
-          "description": {
-            "uk": "Доменна піч №2,.«АЗОВСТАЛЬ», МАРІУПОЛЬ, УКРАЇНА.",
-            "en": "Blast furnace #2 of AZOVSTAL I&SW, MARIUPOL, UKRAINE.",
-            "de": "Hochofen #2. AZOVSTAL, MARIUPOL, UKRAINE."
-          },
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/6_BLAST FURNACE 2.jpg",
           "width": 6107,
-          "height": 4798,
-          "material": {
-            "uk": "uk.полотно/олія",
-            "en": "en.полотно/олія",
-            "de": "de.полотно/олія"
-          },
-          "size": "100x80 cm",
-          "date": "2023",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
+          "height": 4798
         },
         {
           "id": 9,
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/7_BLAST FURNACE 4 (2).jpg",
+          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
           "name": {
             "uk": "ДОМЕННА ПІЧ №4 (2)",
             "en": "BLAST FURNACE #4 (2)",
             "de": "HOCHOFEN #4 (2)"
+          },
+          "description": {
+            "uk": "Це продовження роботи над зображенням доменної печі №4.\n«АЗОВСТАЛЬ», МАРІУПОЛЬ, УКРАЇНА.",
+            "en": "This is a continuation of the work on the image of the blast furnace No.4 of AZOVSTAL I&SW, MARIUPOL, UKRAINE.",
+            "de": "Dies ist eine Fortsetzung der Arbeit am Bild des Hochofens #4. AZOVSTAL, MARIUPOL, UKRAINE."
           },
           "material": {
             "uk": "uk.полотно/олія",
@@ -214,22 +186,8 @@
           },
           "size": "80x60 cm",
           "date": "2019",
-          "description": {
-            "uk": "Це продовження роботи над зображенням доменної печі №4.\n«АЗОВСТАЛЬ», МАРІУПОЛЬ, УКРАЇНА.",
-            "en": "This is a continuation of the work on the image of the blast furnace No.4 of AZOVSTAL I&SW, MARIUPOL, UKRAINE.",
-            "de": "Dies ist eine Fortsetzung der Arbeit am Bild des Hochofens #4. AZOVSTAL, MARIUPOL, UKRAINE."
-          },
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/7_BLAST FURNACE 4 (2).jpg",
           "width": 6093,
-          "height": 7938,
-          "material": {
-            "uk": "uk.полотно/олія",
-            "en": "en.полотно/олія",
-            "de": "de.полотно/олія"
-          },
-          "size": "100x80 cm",
-          "date": "2023",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A"
+          "height": 7938
         },
         {
           "id": 8,
