@@ -422,6 +422,30 @@
       "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/portraits.jpg",
       "page": [
         {
+          "id": 4,
+          "src": "",
+          "linkVideo": "",
+          "name": {
+            "uk": "Нове зображення",
+            "en": "",
+            "de": ""
+          },
+          "description": {
+            "uk": "",
+            "en": "",
+            "de": ""
+          },
+          "material": {
+            "uk": "",
+            "en": "",
+            "de": ""
+          },
+          "size": "",
+          "date": "",
+          "width": 1000,
+          "height": 1000
+        },
+        {
           "id": 3,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/portraits/12_Rebellion (DIESELPUNK 2023).jpg",
           "linkVideo": "",
