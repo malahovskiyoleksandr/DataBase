@@ -560,7 +560,7 @@
         {
           "id": 3,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/dark_side/15_DARK SIDE 2.jpg",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
+          "linkVideo": "",
           "name": {
             "uk": "DARK SIDE 2",
             "en": "DARK SIDE 2",
@@ -584,7 +584,7 @@
         {
           "id": 2,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/dark_side/16_DARK SIDE 3.jpg",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
+          "linkVideo": "",
           "name": {
             "uk": "DARK SIDE 3",
             "en": "DARK SIDE 3",
@@ -608,7 +608,7 @@
         {
           "id": 1,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/dark_side/17_DARK SIDE 4.jpg",
-          "linkVideo": "https://www.youtube.com/watch?v=4h_awXtcK-A",
+          "linkVideo": "",
           "name": {
             "uk": "DARK SIDE 4",
             "en": "DARK SIDE 4",
