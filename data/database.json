@@ -426,9 +426,9 @@
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/portraits/11_Gloomy sky (CYBERPUNK 2022).jpg",
           "linkVideo": "",
           "name": {
-            "uk": "Нове зображення",
-            "en": "",
-            "de": ""
+            "uk": "Похмуре небо (CYBERPUNK 2021)",
+            "en": "Gloomy sky (CYBERPUNK 2021)",
+            "de": "Düsterer Himmel (CYBERPUNK 2021)"
           },
           "description": {
             "uk": "",
@@ -436,14 +436,14 @@
             "de": ""
           },
           "material": {
-            "uk": "",
-            "en": "",
-            "de": ""
+            "uk": "полотно/олія",
+            "en": "Oil on canvas",
+            "de": "Öl auf Leinwand"
           },
-          "size": "",
-          "date": "",
-          "width": 1000,
-          "height": 1000
+          "size": "100x80 cm",
+          "date": "2021",
+          "width": "1920",
+          "height": "2390"
         },
         {
           "id": 3,
