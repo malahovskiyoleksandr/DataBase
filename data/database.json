@@ -46,30 +46,6 @@
       },
       "page": [
         {
-          "id": 16,
-          "src": "",
-          "linkVideo": "",
-          "name": {
-            "uk": "Нове зображення",
-            "en": "",
-            "de": ""
-          },
-          "description": {
-            "uk": "",
-            "en": "",
-            "de": ""
-          },
-          "material": {
-            "uk": "",
-            "en": "",
-            "de": ""
-          },
-          "size": "",
-          "date": "",
-          "width": 1000,
-          "height": 1000
-        },
-        {
           "id": 15,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/1_SCRUBBER.jpg",
           "linkVideo": "",
