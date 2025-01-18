@@ -558,54 +558,6 @@
       "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/dark_side.jpg",
       "page": [
         {
-          "id": 5,
-          "src": "",
-          "linkVideo": "",
-          "name": {
-            "uk": "Нове зображення",
-            "en": "",
-            "de": ""
-          },
-          "description": {
-            "uk": "",
-            "en": "",
-            "de": ""
-          },
-          "material": {
-            "uk": "",
-            "en": "",
-            "de": ""
-          },
-          "size": "",
-          "date": "",
-          "width": 1000,
-          "height": 1000
-        },
-        {
-          "id": 4,
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/dark_side/14_DARK SIDE 1.jpg",
-          "linkVideo": "",
-          "name": {
-            "uk": "DARK SIDE 1",
-            "en": "DARK SIDE 1",
-            "de": "DUNKLE SEITE 1"
-          },
-          "description": {
-            "uk": "DARK SIDE 1",
-            "en": "",
-            "de": ""
-          },
-          "material": {
-            "uk": "полотно/олія",
-            "en": "Oil on canvas",
-            "de": "Öl auf Leinwand"
-          },
-          "size": "40x60 cm",
-          "date": "2015",
-          "width": 6101,
-          "height": 4808
-        },
-        {
           "id": 3,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/dark_side/15_DARK SIDE 2.jpg",
           "linkVideo": "",
