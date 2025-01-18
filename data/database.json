@@ -558,6 +558,30 @@
       "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/dark_side.jpg",
       "page": [
         {
+          "id": 4,
+          "src": "",
+          "linkVideo": "",
+          "name": {
+            "uk": "Нове зображення",
+            "en": "",
+            "de": ""
+          },
+          "description": {
+            "uk": "",
+            "en": "",
+            "de": ""
+          },
+          "material": {
+            "uk": "",
+            "en": "",
+            "de": ""
+          },
+          "size": "",
+          "date": "",
+          "width": 1000,
+          "height": 1000
+        },
+        {
           "id": 3,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/dark_side/15_DARK SIDE 2.jpg",
           "linkVideo": "",
