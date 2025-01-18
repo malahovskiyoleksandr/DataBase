@@ -559,6 +559,30 @@
       "page": [
         {
           "id": 4,
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/dark_side/14_DARK SIDE 1.jpg",
+          "linkVideo": "",
+          "name": {
+            "uk": "DARK SIDE 1",
+            "en": "DARK SIDE 1",
+            "de": "DUNKLE SEITE 1"
+          },
+          "description": {
+            "uk": "DARK SIDE 1",
+            "en": "",
+            "de": ""
+          },
+          "material": {
+            "uk": "полотно/олія",
+            "en": "Oil on canvas",
+            "de": "Öl auf Leinwand"
+          },
+          "size": "40x60 cm",
+          "date": "2015",
+          "width": 6101,
+          "height": 4808
+        },
+        {
+          "id": 4,
           "src": "",
           "linkVideo": "",
           "name": {
