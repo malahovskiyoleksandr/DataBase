@@ -634,6 +634,17 @@
   },
   "events": [
     {
+      "id": 6,
+      "title": {
+        "uk": "Новий",
+        "en": "new",
+        "de": ""
+      },
+      "date": "",
+      "main_image": "",
+      "content": []
+    },
+    {
       "id": 5,
       "title": {
         "uk": "Новий",
