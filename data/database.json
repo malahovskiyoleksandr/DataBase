@@ -446,30 +446,6 @@
       "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/portraits.jpg",
       "page": [
         {
-          "id": 6,
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/portraits/background2.png",
-          "linkVideo": "",
-          "name": {
-            "uk": "Нове зображення",
-            "en": "",
-            "de": ""
-          },
-          "description": {
-            "uk": "",
-            "en": "",
-            "de": ""
-          },
-          "material": {
-            "uk": "",
-            "en": "",
-            "de": ""
-          },
-          "size": "",
-          "date": "",
-          "width": 1000,
-          "height": 1000
-        },
-        {
           "id": 5,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/portraits/United team JPG.jpg",
           "linkVideo": "",
