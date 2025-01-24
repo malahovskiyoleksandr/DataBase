@@ -715,27 +715,6 @@
       "date": "",
       "main_image": "",
       "content": [
-        {
-          "type": "text",
-          "value": {
-            "uk": "11111",
-            "en": "",
-            "de": ""
-          }
-        },
-        {
-          "type": "image",
-          "src": "",
-          "description": {
-            "uk": "",
-            "en": "",
-            "de": ""
-          }
-        }
-      ],
-      "images": [
-        "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id5/13.jpg",
-        "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id5/industrial.jpg"
       ]
     },
     {
