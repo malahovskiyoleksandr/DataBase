@@ -723,7 +723,18 @@
             "en": "",
             "de": ""
           }
+        },
+        {
+          "type": "text",
+          "value": {
+            "uk": "11111",
+            "en": "",
+            "de": ""
+          }
         }
+      ],
+      "images": [
+        "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id5/13.jpg"
       ]
     },
     {
