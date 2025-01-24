@@ -740,10 +740,20 @@
             "en": "",
             "de": ""
           }
+        },
+        {
+          "type": "image",
+          "src": "",
+          "description": {
+            "uk": "",
+            "en": "",
+            "de": ""
+          }
         }
       ],
       "images": [
-        "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id5/13.jpg"
+        "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id5/13.jpg",
+        "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id5/industrial.jpg"
       ]
     },
     {
