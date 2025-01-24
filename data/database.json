@@ -715,6 +715,23 @@
       "date": "",
       "main_image": "",
       "content": [
+        {
+          "type": "text",
+          "value": {
+            "uk": "11111",
+            "en": "",
+            "de": ""
+          }
+        },
+        {
+          "type": "image",
+          "src": "",
+          "description": {
+            "uk": "",
+            "en": "",
+            "de": ""
+          }
+        }
       ]
     },
     {
