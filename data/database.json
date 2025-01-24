@@ -714,7 +714,17 @@
       },
       "date": "",
       "main_image": "",
-      "content": []
+      "content": [
+        {
+          "type": "image",
+          "src": "",
+          "description": {
+            "uk": "",
+            "en": "",
+            "de": ""
+          }
+        }
+      ]
     },
     {
       "id": 4,
