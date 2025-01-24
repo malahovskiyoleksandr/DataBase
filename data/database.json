@@ -715,24 +715,7 @@
       "date": "",
       "main_image": "",
       "content": [
-        {
-          "type": "image",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id5/mainPhoto.png",
-          "description": {
-            "uk": "",
-            "en": "",
-            "de": ""
-          }
-        },
-        {
-          "type": "image",
-          "src": "",
-          "description": {
-            "uk": "",
-            "en": "",
-            "de": ""
-          }
-        }
+
       ]
     },
     {
