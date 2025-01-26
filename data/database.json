@@ -706,35 +706,6 @@
   },
   "events": [
     {
-      "id": 5,
-      "title": {
-        "uk": "Новий",
-        "en": "new",
-        "de": ""
-      },
-      "date": "",
-      "main_image": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id5/14_DARK SIDE 1.jpg",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id5/11tmp.JPG",
-          "description": {
-            "uk": "",
-            "en": "",
-            "de": ""
-          }
-        },
-        {
-          "type": "text",
-          "value": {
-            "uk": "132132",
-            "en": "",
-            "de": ""
-          }
-        }
-      ]
-    },
-    {
       "id": 4,
       "title": {
         "uk": "Маріупольський художній проєкт\n\"POST MOST 6. Reconnect\" у Музеї історії міста Кам’янське",
