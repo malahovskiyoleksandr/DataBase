@@ -725,15 +725,6 @@
           }
         },
         {
-          "type": "image",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id5/SA_Oleksandr_Malakhovskiy_1_2024_Spectrum_JPG_2.jpg",
-          "description": {
-            "uk": "",
-            "en": "",
-            "de": ""
-          }
-        },
-        {
           "type": "text",
           "value": {
             "uk": "132132",
