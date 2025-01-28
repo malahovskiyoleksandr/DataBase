@@ -1182,5 +1182,10 @@
       "details": "Удалён элемент с id 16, данные: {\"name\":{\"uk\":\"Нове зображення\",\"en\":\"\",\"de\":\"\"},\"material\":\"\",\"size\":\"\",\"date\":\"\",\"description\":{\"uk\":\"\",\"en\":\"\",\"de\":\"\"},\"src\":\"https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/industrial/MainAfter.jpg\",\"width\":1000,\"height\":1000,\"id\":16}"
     }
   ],
-  "events/id5": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events.[object Object].main_image/13.jpg"
+  "users": [
+    {
+      "email": "user1@example.com",
+      "password": "$2b$10$RzFroR/ZwU5xdDoGJuVLOe0lpz9NeXMTYOMTVlGZtPWWOXaXeEY.q"
+    }
+  ]
 }
