@@ -606,30 +606,6 @@
       "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/dark_side.jpg",
       "page": [
         {
-          "id": 5,
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/dark_side/27_DARK SIDE 5.jpg",
-          "linkVideo": "",
-          "name": {
-            "uk": "Нове зображення",
-            "en": "",
-            "de": ""
-          },
-          "description": {
-            "uk": "DARK SIDE 1",
-            "en": "DARK SIDE 1",
-            "de": "DARK SIDE 1"
-          },
-          "material": {
-            "uk": "полотно/олія",
-            "en": "Oil on canvas",
-            "de": "Öl auf Leinwand"
-          },
-          "size": "100x80 cm",
-          "date": "2012",
-          "width": "1396",
-          "height": "1749"
-        },
-        {
           "id": 4,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/dark_side/14_DARK SIDE 1.jpg",
           "linkVideo": "",
@@ -724,6 +700,30 @@
           "date": "2017",
           "width": 6077,
           "height": 8160
+        },
+        {
+          "id": 5,
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/dark_side/27_DARK SIDE 5.jpg",
+          "linkVideo": "",
+          "name": {
+            "uk": "Нове зображення",
+            "en": "",
+            "de": ""
+          },
+          "description": {
+            "uk": "DARK SIDE 1",
+            "en": "DARK SIDE 1",
+            "de": "DARK SIDE 1"
+          },
+          "material": {
+            "uk": "полотно/олія",
+            "en": "Oil on canvas",
+            "de": "Öl auf Leinwand"
+          },
+          "size": "100x80 cm",
+          "date": "2012",
+          "width": "1396",
+          "height": "1749"
         }
       ]
     }
