@@ -606,6 +606,30 @@
       "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/dark_side.jpg",
       "page": [
         {
+          "id": 5,
+          "src": "",
+          "linkVideo": "",
+          "name": {
+            "uk": "Нове зображення",
+            "en": "",
+            "de": ""
+          },
+          "description": {
+            "uk": "",
+            "en": "",
+            "de": ""
+          },
+          "material": {
+            "uk": "",
+            "en": "",
+            "de": ""
+          },
+          "size": "",
+          "date": "",
+          "width": 1000,
+          "height": 1000
+        },
+        {
           "id": 4,
           "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/gallery/dark_side/14_DARK SIDE 1.jpg",
           "linkVideo": "",
@@ -709,7 +733,7 @@
       "id": 4,
       "title": {
         "uk": "Маріупольський художній проєкт\n\"POST MOST 6. Reconnect\" у Музеї історії міста Кам’янське",
-        "en": "Mariupol art project \"POST MOST 6. Reconnect\"\nin the Kamianske History Museum\n",
+        "en": "Mariupol artistic project \"POST MOST 6. Reconnect\"\nin the Kamianske History Museum\n",
         "de": "Mariupol-Kunstprojekt \"POST MOST 6. Reconnect\"\nim Kamianske History Museum"
       },
       "date": "19.10.2024",
