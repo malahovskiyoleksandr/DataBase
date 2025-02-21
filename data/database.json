@@ -1200,12 +1200,12 @@
           }
         },
         {
-          "type": "text",
-          "value": {
-            "uk": "https://donbas24.news/news/mariupolski-xudoznici-predstavili-novu-vistavku-v-dortmundi https://www.youtube.com/watch?v=nIy9u4JPjkw",
-            "en": "https://donbas24.news/news/mariupolski-xudoznici-predstavili-novu-vistavku-v-dortmundi https://www.youtube.com/watch?v=nIy9u4JPjkw",
-            "de": "https://donbas24.news/news/mariupolski-xudoznici-predstavili-novu-vistavku-v-dortmundi https://www.youtube.com/watch?v=nIy9u4JPjkw"
-          }
+          "type": "link",
+          "value": "https://donbas24.news/news/mariupolski-xudoznici-predstavili-novu-vistavku-v-dortmundi"
+        },
+        {
+          "type": "link",
+          "value": "https://www.youtube.com/watch?v=nIy9u4JPjkw"
         }
       ]
     }
