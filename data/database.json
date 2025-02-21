@@ -1058,12 +1058,32 @@
           }
         },
         {
-          "type": "text",
-          "value": {
-            "uk": "https://nashreporter.com/suspilstvo/muzej-istoriyi-kamyanskogo-zaproshuye-na-vystavku-118604\nhttps://lcity.dp.ua/154554-u-kam-ianskomu-vidkrylasia-nova-vystavka-kartyn-foto/\nhttps://lcity.dp.ua/153711-u-muzei-kam-ianskoho-hotuiut-vystavku-industrialnykh-pejzazhiv/\nhttps://sobitie.com.ua/kultura/hudozhnij-proyekt-narodzhenyj-u-mariupoli-prezentuvaly-v-kamyanskomu-302225/\nhttps://www.ukr.net/news/details/dnipro/101337839.html\nhttps://ua-news.in.ua/y-kam-ianskomy-vidkrilasia-nova-vistavka-kartin-foto/\nhttps://nashreporter.com/suspilstvo/v-muzeyi-istoriyi-kamyanskogo-buv-vernisazh-119730\nhttps://mis.dp.ua/news-ua/zhyvopys-industrialnyh-mist-predstavyly-u-kamyanskomu?fbclid=IwAR37ky4-aV0LBa6BCG1IY9UIQy2Jmg75kKomyZqmsAJ-VoNC7T5TPAWf1kY",
-            "en": "https://nashreporter.com/suspilstvo/muzej-istoriyi-kamyanskogo-zaproshuye-na-vystavku-118604\nhttps://lcity.dp.ua/154554-u-kam-ianskomu-vidkrylasia-nova-vystavka-kartyn-foto/\nhttps://lcity.dp.ua/153711-u-muzei-kam-ianskoho-hotuiut-vystavku-industrialnykh-pejzazhiv/\nhttps://sobitie.com.ua/kultura/hudozhnij-proyekt-narodzhenyj-u-mariupoli-prezentuvaly-v-kamyanskomu-302225/\nhttps://www.ukr.net/news/details/dnipro/101337839.html\nhttps://ua-news.in.ua/y-kam-ianskomy-vidkrilasia-nova-vistavka-kartin-foto/\nhttps://nashreporter.com/suspilstvo/v-muzeyi-istoriyi-kamyanskogo-buv-vernisazh-119730\nhttps://mis.dp.ua/news-ua/zhyvopys-industrialnyh-mist-predstavyly-u-kamyanskomu?fbclid=IwAR37ky4-aV0LBa6BCG1IY9UIQy2Jmg75kKomyZqmsAJ-VoNC7T5TPAWf1kY",
-            "de": "https://nashreporter.com/suspilstvo/muzej-istoriyi-kamyanskogo-zaproshuye-na-vystavku-118604\nhttps://lcity.dp.ua/154554-u-kam-ianskomu-vidkrylasia-nova-vystavka-kartyn-foto/\nhttps://lcity.dp.ua/153711-u-muzei-kam-ianskoho-hotuiut-vystavku-industrialnykh-pejzazhiv/\nhttps://sobitie.com.ua/kultura/hudozhnij-proyekt-narodzhenyj-u-mariupoli-prezentuvaly-v-kamyanskomu-302225/\nhttps://www.ukr.net/news/details/dnipro/101337839.html\nhttps://ua-news.in.ua/y-kam-ianskomy-vidkrilasia-nova-vistavka-kartin-foto/\nhttps://nashreporter.com/suspilstvo/v-muzeyi-istoriyi-kamyanskogo-buv-vernisazh-119730\nhttps://mis.dp.ua/news-ua/zhyvopys-industrialnyh-mist-predstavyly-u-kamyanskomu?fbclid=IwAR37ky4-aV0LBa6BCG1IY9UIQy2Jmg75kKomyZqmsAJ-VoNC7T5TPAWf1kY"
-          }
+          "type": "link",
+          "value": "https://nashreporter.com/suspilstvo/muzej-istoriyi-kamyanskogo-zaproshuye-na-vystavku-118604"
+        },
+        {
+          "type": "link",
+          "value": "https://lcity.dp.ua/154554-u-kam-ianskomu-vidkrylasia-nova-vystavka-kartyn-foto/"
+        },
+        {
+          "type": "link",
+          "value": "https://lcity.dp.ua/153711-u-muzei-kam-ianskoho-hotuiut-vystavku-industrialnykh-pejzazhiv/"
+        },
+        {
+          "type": "link",
+          "value": "https://sobitie.com.ua/kultura/hudozhnij-proyekt-narodzhenyj-u-mariupoli-prezentuvaly-v-kamyanskomu-302225/"
+        },
+        {
+          "type": "link",
+          "value": "https://www.ukr.net/news/details/dnipro/101337839.html https://ua-news.in.ua/y-kam-ianskomy-vidkrilasia-nova-vistavka-kartin-foto/"
+        },
+        {
+          "type": "link",
+          "value": "https://nashreporter.com/suspilstvo/v-muzeyi-istoriyi-kamyanskogo-buv-vernisazh-119730"
+        },
+        {
+          "type": "link",
+          "value": "https://mis.dp.ua/news-ua/zhyvopys-industrialnyh-mist-predstavyly-u-kamyanskomu?fbclid=IwAR37ky4-aV0LBa6BCG1IY9UIQy2Jmg75kKomyZqmsAJ-VoNC7T5TPAWf1kY"
         }
       ]
     },
