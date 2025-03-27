@@ -739,7 +739,10 @@
       "date": "19.10.2024",
       "main_image": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id4/Снимок экрана 2025-01-18 105945.png",
       "content": [
-
+        {
+          "type": "pdf",
+          "value": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/pdf/Catalog_PM6_2025%20PDF.pdf",
+        },
         {
           "type": "text",
           "value": {
