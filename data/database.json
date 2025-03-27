@@ -741,6 +741,7 @@
       "content": [
         {
           "type": "pdf",
+          "name": "pdf name",
           "value": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/pdf/Catalog_PM6_2025%20PDF.pdf"
         },
         {
