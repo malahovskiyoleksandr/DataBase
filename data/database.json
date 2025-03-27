@@ -740,6 +740,11 @@
       "main_image": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id4/Снимок экрана 2025-01-18 105945.png",
       "content": [
         {
+          "type": "pdf",
+          "name": "pdf name",
+          "value": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/pdf/Catalog_PM6_2025%20PDF.pdf"
+        },
+        {
           "type": "text",
           "value": {
             "uk": "19 жовтня у Музеї історії Кам’янського презентували художню виставку \"POST MOST 6. Reconnect\".",
@@ -843,7 +848,8 @@
             "uk": "",
             "en": "",
             "de": ""
-          }
+          },
+          "value": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/pdf/id4/Catalog_PM6_2025 PDF(1).pdf"
         }
       ]
     },
