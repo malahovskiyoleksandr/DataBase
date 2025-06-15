@@ -738,7 +738,13 @@
       },
       "date": "",
       "main_image": "",
-      "content": []
+      "content": [
+        {
+          "type": "pdf",
+          "src": "",
+          "name": "1111"
+        }
+      ]
     },
     {
       "id": 4,
