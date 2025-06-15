@@ -730,23 +730,6 @@
   },
   "events": [
     {
-      "id": 5,
-      "title": {
-        "uk": "Новий",
-        "en": "new",
-        "de": ""
-      },
-      "date": "",
-      "main_image": "",
-      "content": [
-        {
-          "type": "pdf",
-          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/pdf/id5/1Catalog_PM6_2025 PDF ВЕБ.pdf",
-          "name": "123"
-        }
-      ]
-    },
-    {
       "id": 4,
       "title": {
         "uk": "Маріупольський художній проєкт\n\"POST MOST 6. Reconnect\" у Музеї історії міста Кам’янське",
