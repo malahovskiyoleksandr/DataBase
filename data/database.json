@@ -738,7 +738,17 @@
       },
       "date": "10.10.2025",
       "main_image": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id5/66.JPG",
-      "content": []
+      "content": [
+        {
+          "type": "image",
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id5/55.jpg",
+          "description": {
+            "uk": "",
+            "en": "",
+            "de": ""
+          }
+        }
+      ]
     },
     {
       "id": 4,
