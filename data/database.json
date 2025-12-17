@@ -772,6 +772,15 @@
             "en": "My painting \"Artists Paint the City\" was also selected, small but painted with good feelings about Kamianske, where I now find so many common features with our good Mariupol past reality.",
             "de": "Mein Gemälde „Künstler malen die Stadt“ wurde ebenfalls ausgewählt; es ist klein, aber mit guten Gefühlen für Kamianske gemalt, wo ich jetzt so viele Gemeinsamkeiten mit unserer guten Vergangenheit in Mariupol finde."
           }
+        },
+        {
+          "type": "image",
+          "src": "https://raw.githubusercontent.com/malahovskiyoleksandr/DataBase/main/public/images/events/id5/2025 MA.jpg",
+          "description": {
+            "uk": "",
+            "en": "",
+            "de": ""
+          }
         }
       ]
     },
